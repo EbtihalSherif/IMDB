@@ -1,0 +1,9 @@
+ CREATE OR REPLACE PROCEDURE "VIEW_ALLMOVIES" 
+( cursor out sys_refcursor )
+as
+begin
+open cursor for
+ select movie.movie_name,movie.date_of_puplish , moviecategory.categoryname,movie.avg_rate,director.dir_name 
+ from movie inner join director on movie.director_id = director.dir_id 
+ inner join moviecategory ON moviecategory.categoryid = movie.category_id ;
+end;

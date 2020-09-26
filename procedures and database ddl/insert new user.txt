@@ -1,0 +1,9 @@
+  CREATE OR REPLACE PROCEDURE "INSERT_NEW_USER" 
+(UID number, FName VARCHAR2,LName VARCHAR2,
+Pass VARCHAR ,UName VARCHAR2 )
+as
+begin
+insert  into  imdb_user
+(USER_ID, FIRST_NAME,SECOND_NAME, PASSWORD, user_name)
+Values ( UID,FName,LName,Pass,UName);
+End ;

@@ -1,0 +1,8 @@
+  CREATE OR REPLACE PROCEDURE "INSERT_REVIEW" 
+(U_ID in varchar2 ,M_NAME in varchar2,REVIEW in varchar2)
+as
+begin
+insert into user_review
+(USER_ID, movie_name, MOVIE_REVIEW)
+Values (U_ID,M_NAME,REVIEW);
+end;

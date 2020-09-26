@@ -1,0 +1,8 @@
+  CREATE OR REPLACE PROCEDURE "UPDATE_AVG_RATE" 
+(rate in NUMBER ,movieName in varchar2)
+as
+begin
+UPDATE movie
+set AVG_RATE= rate
+where movie_name=movieName;
+end;

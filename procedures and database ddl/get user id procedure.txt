@@ -1,0 +1,8 @@
+CREATE OR REPLACE PROCEDURE "GETUSERID" 
+(UID out number)
+as
+begin
+select max(user_id)
+into UID
+from imdb_user;
+end;

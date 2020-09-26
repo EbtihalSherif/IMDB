@@ -1,0 +1,13 @@
+
+  CREATE OR REPLACE PROCEDURE "SEARCH_CATEGORY" 
+(cat_name in varchar2 ,cname out sys_refcursor )
+as
+begin
+open cname for
+select movie.movie_name,movie.date_of_puplish , moviecategory.categoryname,movie.avg_rate,director.dir_name  
+from  movie inner join director 
+on movie.director_id = director.dir_id
+inner join moviecategory 
+ON moviecategory.categoryid = movie.category_id 
+where moviecategory.categoryname= cat_name;
+end;

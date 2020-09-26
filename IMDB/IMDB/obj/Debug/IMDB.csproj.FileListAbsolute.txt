@@ -1,0 +1,120 @@
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\bin\Debug\IMDB.exe.config
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\bin\Debug\IMDB.exe
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\bin\Debug\IMDB.pdb
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csprojAssemblyReference.cache
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.AddMovie.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.DeleteMovie.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.Form1.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.login.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.Properties.Resources.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.Recommend.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.search.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.UpdateMovie.resources
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csproj.GenerateResource.cache
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csproj.CoreCompileInputs.cache
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.csproj.CopyComplete
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.exe
+E:\collage\3rd year\second semester\projects\IMDB\IMDB\obj\Debug\IMDB.pdb
+E:\IMDB\IMDB\IMDB\bin\Debug\IMDB.exe.config
+E:\IMDB\IMDB\IMDB\bin\Debug\IMDB.exe
+E:\IMDB\IMDB\IMDB\bin\Debug\IMDB.pdb
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.AddMovie.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.DeleteMovie.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.Form1.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.login.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.Properties.Resources.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.Recommend.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.search.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.UpdateMovie.resources
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.csproj.GenerateResource.cache
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.exe
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.pdb
+E:\IMDB\IMDB\IMDB\bin\Debug\Oracle.DataAccess.dll
+E:\IMDB\IMDB\IMDB\bin\Debug\Oracle.Database.Extensions.dll
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.csprojAssemblyReference.cache
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.csproj.CopyComplete
+E:\IMDB\IMDB\IMDB\obj\Debug\IMDB.testusercontrol.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\IMDB.exe.config
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\IMDB.exe
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\IMDB.pdb
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\Oracle.DataAccess.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\Oracle.Database.Extensions.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.AddMovie.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.DeleteMovie.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.Form1.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.login.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.Properties.Resources.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.Recommend.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.search.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.testusercontrol.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.UpdateMovie.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.csproj.GenerateResource.cache
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.csproj.CopyComplete
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.exe
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.pdb
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.csprojAssemblyReference.cache
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.manage.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.Shared.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\stdole.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.ReportsForm.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\AxShockwaveFlashObjects.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\bin\Debug\ShockwaveFlashObjects.dll
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.RATE.resources
+E:\imdb my ver\IMDB\IMDB\IMDB\obj\Debug\IMDB.user_profile.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\IMDB.exe.config
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\IMDB.exe
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\IMDB.pdb
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\AxShockwaveFlashObjects.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.Shared.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\Oracle.DataAccess.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\Oracle.Database.Extensions.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\ShockwaveFlashObjects.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\stdole.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.AddMovie.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.DeleteMovie.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.Form1.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.login.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.manage.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.Properties.Resources.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.RATE.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.Recommend.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.search.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.testusercontrol.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.UpdateMovie.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.user_profile.resources
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.csproj.GenerateResource.cache
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.csproj.CopyComplete
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.exe
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.pdb
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.csprojAssemblyReference.cache
+E:\imdb my ver\IMDB2\IMDB\IMDB\obj\Debug\IMDB.Reports.resources
